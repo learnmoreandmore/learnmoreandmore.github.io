@@ -1,0 +1,1 @@
+import{_ as c,o,e as s,p as t,l as a,f as _}from"./index-370dc212.js";const d={name:"clock"},n=e=>(t("data-v-781abd65"),e=e(),a(),e),p={class:"c"},l=n(()=>_("div",{class:"clock-loader"},null,-1)),r=[l];function i(e,u,f,h,k,v){return o(),s("div",p,r)}const x=c(d,[["render",i],["__scopeId","data-v-781abd65"]]);export{x as default};
