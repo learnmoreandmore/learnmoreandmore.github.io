@@ -1,1 +1,0 @@
-import{_ as t,o,e as s,p as a,l as n,f as _}from"./index-a413a15d.js";const c={name:"hover-shining-btn"},p=e=>(a("data-v-7faa83a7"),e=e(),n(),e),r={class:"c"},i=p(()=>_("button",{class:"btn btn-primary btn-ghost btn-shine"}," hover me ",-1)),d=[i];function h(e,f,l,v,u,m){return o(),s("div",r,d)}const g=t(c,[["render",h],["__scopeId","data-v-7faa83a7"]]);export{g as default};
